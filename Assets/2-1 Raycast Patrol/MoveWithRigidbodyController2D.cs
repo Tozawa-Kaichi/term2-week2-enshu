@@ -31,10 +31,10 @@ public class MoveWithRigidbodyController2D : MonoBehaviour
     void Update()
     {
         //Move();                     // 例題
-        //MoveWithTurn();          // 課題4
+        MoveWithTurn();          // 課題4
         //MoveOnFloorWithStop();   // 例題
         //MoveOnFloorWithTurn();   // 課題5
-        MoveOnFloor();           // 課題6
+        //MoveOnFloor();           // 課題6
     }
 
     /// <summary>
